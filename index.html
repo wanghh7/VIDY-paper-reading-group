@@ -34,10 +34,10 @@
                         <a class="nav-link js-scroll-trigger" href="#Roles">Roles</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="#Presenters">Presenters</a>
+                        <a class="nav-link js-scroll-trigger" href="#Organization">Organization</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="#Participants">Participants</a>
+                        <a class="nav-link js-scroll-trigger" href="#Presenters&Participants">Presenters & Participants</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link js-scroll-trigger" href="#Resources">Resources</a>
@@ -63,7 +63,7 @@
                 <div class="col-lg-8">
                     <h2>About</h2>
                     <p class="lead">
-                        Welcome to our bi-weekly joint reading group with Dartmouth, UIUC, VT, and Yale. To participate, please <a href="https://docs.google.com/spreadsheets/d/1JMuGP3ZWm5-kTFGE25K-lv-XACAUIPpcwbHk5Ss65OE/edit?usp=sharing">sign up</a> for a role and choose a paper to present.   
+                        Welcome to our bi-weekly joint reading group with Dartmouth, UIUC, VT, and Yale. To participate, please <strong><a style="color:black" href="https://docs.google.com/spreadsheets/d/1JMuGP3ZWm5-kTFGE25K-lv-XACAUIPpcwbHk5Ss65OE/edit?usp=sharing">sign up</a></strong> for a role and choose a paper to present.   
                         <table>
                         <tr>
                             <td align="center">
@@ -85,15 +85,21 @@
         </div>
     </section>
     <!-- Services section-->
-    <section id="Timeline" class="bg-light">
-        <div class="container">
+    <section id="Timeline">
+        <div class="bg-light">
             <div class="row">
                 <div class="col-lg-8 mx-auto">
                     <h2>Timeline</h2>
+                    <style>
+                        table {
+                                border-collapse: separate;
+                                border-spacing: 10px;
+                            }
+                    </style>
                     <table>
                         <thead>
                           <tr>
-                            <th>Meeting date</th>
+                            <th>Date</th>
                             <th>Theme</th>
                             <th>Topic</th>
                             <th>Paper</th>
@@ -240,101 +246,152 @@
                             </td>
                             </tr>
                         </tbody>
-                        </table>
-                      
+                        </table>                     
                 </div>
             </div>
         </div>
     </section>
-    <section id="Roles">
+    <section id="Roles" >
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 mx-auto">
                     <h2>Group Reading Roles</h2>
                     <p class="lead"> The group reading is organized around the different “roles” students play each week: Presenter, Challenger, Discussant, Summarizer, and Hacker. Roles define the lens through which students read the paper.
-                    <p class="lead"> Note: Each student should sign up for at least **1 presenter, 2 challengers, and 1 summarizer** role. You can sign up as a 3rd challenger only if all papers have at least 2 challengers.
+                    <p class="lead"> Note: (1) Each student should sign up for at least <strong>1 presenter, 2 challengers, and 1 summarizer</strong> role. (2) Students can sign up as a 3rd challenger only if all papers have at least 2 challengers.
                     </p>
                     <ul>
-                        <li dir="ltr" class="lead">Presenter: Create slides, deliver the paper presentation, and handle questions.
+                        <li dir="ltr" class="lead"><strong>Presenter:</strong> Create the main presentation, describing the motivation, problem definition, method, and experimental findings of this paper.
                         </li>
-                        <li dir="ltr" class="lead">Challenger: Prepare 1-2 slides, review the paper, and identify at least 3 strengths and 3 weaknesses.
+                        <li dir="ltr" class="lead"><strong>Challenger (*3):</strong> Prepare 2-3 critical but not necessarily negative questions.  Please note that this role does not require going over related work, and is not an exhaustive list of all arguments you can think of. What are your reactions to the Papers and why? What can the authors do to improve the Paper? Learning how to read other Papers with the <strong>critical eye of a good</strong>.
                         </li>
-                        <li dir="ltr" class="lead">Discussant: Prepare 1-2 slides, propose a follow-up project made possible by the current paper's success, explore connections with other research, and raise discussion points for improvement and relevance.
+                        <li dir="ltr" class="lead"><strong>Discussant (*1):</strong> Propose an imaginary follow-up project (e.g., novel theorem, methodology, and applications) that has now become possible due to the existence and success of the current paper. Think about what is beyond this paper and the what are the connections with other papers? Come up with several discussion points (e.g., constructive ways to improve the paper, the relevance of the paper to academia and society).
                         </li>
-                        <li dir="ltr" class="lead">Summarizer: After the meeting, summarize the discussion in 2-3 slides, covering the paper's main message, contributions, limitations, and future directions. Also, collect all reading materials and upload them to our shared repository.
+                        <li dir="ltr" class="lead"><strong>Summarizer (*1):</strong> Your responsibility is to help the audience <strong>understand the papers better</strong>. You should have read the papers carefully, taken time to understand their contributions, strengths and weaknesses, and what the audience needs to know about them. After the meeting, you should summarize the meeting discussion in 2-3 slides by including the paper’s main message, contributions, limitations, and future directions. Collect all the reading materials (papers, presentation slides, summary slides) and upload them to our shared repository.
+                        </li>
+                        <li dir="ltr" class="lead"><strong>Hacker (optional):</strong> Implement a small part of the paper on a small dataset or toy problem, or any other simplified version of the paper. Share a Jupyter Notebook with the code of the algorithm with the reading group. This role is optional, i.e., you can declare if you would like to be a Hacker as an alternative for a specific week, for example, when you like the topic and would like to get hands-on experience, but no student will necessarily have to complete this role. Please do not simply download and run an existing implementation, make an effort to at least implement a core method from the paper. After all, your code does not have to be bug-free or run perfectly in all scenarios. Also, you are welcome to use (and give credit to) an existing implementation for “backbone” code (e.g. model building, data loading, training loop, etc.).
                         </li>
                     </ul>
                 </div>
             </div>
     </section>
-    <section id="Presenters">
-        <section id="Presenters" class="bg-light">
+    <section id="Organization">
+        <div class="bg-light">
             <div class="row">
                 <div class="col-lg-8 mx-auto">
-                    <h2>Presenters</h2>
-                    <p class="lead"> Please send your slides or a link to them once you finish preparing them.</p>
-                    <ul>
-                        <li dir="ltr" class="lead">Zheng Huang, Dartmouth
-                        </li>
-                        <li dir="ltr" class="lead">Xuyuan Liu, Dartmouth
-                        </li>
-                        <li dir="ltr" class="lead">Gaotang Li, UMich
-                        </li>
-                        <li dir="ltr" class="lead">Xingjian Zhang, UMich
-                        </li>
-                        <li dir="ltr" class="lead">Junwei Deng, UIUC
-                        </li>
-                        <li dir="ltr" class="lead">Pingbang Hu, UIUC
-                        </li>
-                        <li dir="ltr" class="lead">Haohui Wang, VT
-                        </li>
-                        <li dir="ltr" class="lead">Shuaicheng Zhang, VT
-                        </li>
-                        <li dir="ltr" class="lead">Zi Wang, VT
-                        </li>
-                        <li dir="ltr" class="lead">Tuo Wang, VT
-                        </li>
-                        <li dir="ltr" class="lead">Jianpeng Chen, VT
-                        </li>
-                        <li dir="ltr" class="lead">Tinglin Huang, Yale
-                        </li>
-                        <li dir="ltr" class="lead">Jialin Chen, Yale
-                        </li>
-                        <li dir="ltr" class="lead">Weikang Qiu, Yale
-                        </li>
-                        <li dir="ltr" class="lead">Ngoc Bui, Yale
-                        </li>
-                    </ul>
+                    <h2>Organization</h2>
+                    <table>
+                        <tr>
+                            <td align="center">
+                            <img src="images/Yujun.jpg" alt="Dartmouth" width="300"/>
+                            </td>
+                            <td align="center">
+                            <img src="images/Jiaqi.jpg" alt="UIUC" width="300"/>
+                            </td>
+                            <td align="center">
+                            <img src="images/Dawei.png" alt="VT" width="300"/>
+                            </td>
+                            <td align="center">
+                            <img src="images/Rex.jpg" alt="Yale" width="300"/>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;"><a style="color:black" href="https://sites.google.com/umich.edu/yujunyan/home">Yujun Yan</a>, Dartmouth</td>
+                            <td style="text-align: center;"><a style="color:black" href="https://www.jiaqima.com/">Jiaqi Ma</a>, UIUC</td>
+                            <td style="text-align: center;"><a style="color:black" href="https://sites.google.com/view/dawei-zhou/home">Dawei Zhou</a>, VT</td>
+                            <td style="text-align: center;"><a style="color:black" href="https://www.cs.yale.edu/homes/ying-rex/">Rex Ying</a>, Yale</td>
+                          </tr>
+                    </table>
                 </div>
             </div>
-        </section>
-        <section id="Participants">
-            <div class="Participants">
-                <div class="row">
-                    <div class="col-lg-8 mx-auto">
-                        <h2>Participants</h2>
-                        <ul>
-                            <li dir="ltr" class="lead">Weijie Guan, VT
-                            </li>
-                            <li dir="ltr" class="lead">Longfeng Wu, VT
-                            </li>
-                            <li dir="ltr" class="lead">Fatimah Alotaibi, VT
-                            </li>
-                            <li dir="ltr" class="lead">Jiayuan Chen
-                            </li>
-                        </ul>
-                    </div>
+        </div>
+    </section>
+    <section id="Presenters&Participants">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2>Presenters & Participants</h2>
+                    <p class="lead"> To presenters: please send your slides or a link to them once you finish preparing them.</p>
+                    <table>
+                        <thead>
+                            <tr>
+                              <th>Presenters</th>
+                              <th>Participants</th>
+                            </tr>
+                          </thead>
+                        <tbody>
+                        <tr>
+                            <td>Zheng Huang, Dartmouth</td>
+                            <td>Weijie Guan, VT</td>
+                        </tr>
+                        <tr>
+                            <td>Xuyuan Liu, Dartmouth</td>
+                            <td>Longfeng Wu, VT</td>
+                        </tr>
+                        <tr>
+                            <td>Gaotang Li, UMich</td>
+                            <td>Fatimah Alotaibi, VT</td>
+                        </tr>
+                        <tr>
+                            <td>Xingjian Zhang, UMich</td>
+                            <td>Jiayuan Chen</td>
+                        </tr>
+                        <tr>
+                            <td>Junwei Deng, UIUC</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td>Pingbang Hu, UIUC</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td>Haohui Wang, VT</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td>Shuaicheng Zhang, VT</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td>Zi Wang, VT</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td>Tuo Wang, VT</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td>Jianpeng Chen, VT</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td>Tinglin Huang, Yale</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td>Jialin Chen, Yale</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td>Weikang Qiu, Yale</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td>Ngoc Bui, Yale</td>
+                            <td></td>
+                        </tr>
+                        </tbody>
+                    </table>
                 </div>
             </div>
         </section>
         <section id="Resources">
-            <div class="Resources">
+            <div class="bg-light">
                 <div class="row">
                     <div class="col-lg-8 mx-auto">
                         <h2>Resources</h2>
                     </div>
                 </div>
-            </div>R
+            </div>
         <!-- </section> -->
         <!-- <footer class="py-5 bg-dark"> -->
             <!-- <div class="container"> -->
