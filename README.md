@@ -49,10 +49,12 @@ The group reading is organized around the different “roles” students play ea
 
 Note: Each student should sign up for at least **1 presenter, 2 challengers, and 1 summarizer** role. You can sign up as a 3rd challenger only if all papers have at least 2 challengers.
 
-* Presenter: Create slides, deliver the paper presentation, and handle questions.
+* **Presenter:** Create the main presentation, describing the motivation, problem definition, method, and experimental findings of this paper.
 
-* Challenger: Prepare 1-2 slides, review the paper, and identify at least 3 strengths and 3 weaknesses.
+* **Challenger:** Prepare 2-3 critical but not necessarily negative questions.  Please note that this role does not require going over related work, and is not an exhaustive list of all arguments you can think of. What are your reactions to the Papers and why? What can the authors do to improve the Paper? Learning how to read other Papers with the **critical eye of a good**.
 
-* Discussant: Prepare 1-2 slides, propose a follow-up project made possible by the current paper's success, explore connections with other research, and raise discussion points for improvement and relevance.
+* **Discussant:** Propose an imaginary follow-up project (e.g., novel theorem, methodology, and applications) that has now become possible due to the existence and success of the current paper. Think about **what is beyond** this paper and the what are the connections with other papers? Come up with several discussion points (e.g., constructive ways to improve the paper, the relevance of the paper to academia and society).
 
-* Summarizer: After the meeting, summarize the discussion in 2-3 slides, covering the paper's main message, contributions, limitations, and future directions. Also, collect all reading materials and upload them to our shared repository.
+* **Summarizer:** Your responsibility is to help the audience **understand the papers better**. You should have read the papers carefully, taken time to understand their contributions, strengths and weaknesses, and what the audience needs to know about them. After the meeting, you should summarize the meeting discussion in 2-3 slides by including the paper's main message, contributions, limitations, and future directions. Collect all the reading materials (papers, presentation slides, summary slides) and upload them to our shared repository.
+
+* **Hacker (optional):** Implement a small part of the paper on a small dataset or toy problem, or any other simplified version of the paper. Share a Jupyter Notebook with the code of the algorithm with the reading group. This role is optional, i.e., you can declare if you would like to be a Hacker as an alternative for a specific week, for example, when you like the topic and would like to get hands-on experience, but no student will necessarily have to complete this role. Please do not simply download and run an existing implementation, make an effort to at least implement a core method from the paper. After all, your code does not have to be bug-free or run perfectly in all scenarios. Also, you are welcome to use (and give credit to) an existing implementation for “backbone” code (e.g. model building, data loading, training loop, etc.).
