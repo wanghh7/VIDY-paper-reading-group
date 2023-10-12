@@ -25,7 +25,7 @@ In this repository, you will find the paper list and slidedecks.
 ## Timeline
 |Meeting date|Theme|Topic|Paper|Slidedeck|Resources|
 |-|-|-|-|-|-|
-|2023/10/11|Algorithm|Generative models|[DiGress: Discrete Denoising diffusion for graph generation](https://arxiv.org/abs/2209.14734)|[Summary](./material/20231004-Generative%20models/DiGress.pdf)||
+|2023/10/11|Algorithm|Generative models|[DiGress: Discrete Denoising diffusion for graph generation](https://arxiv.org/abs/2209.14734)|[Link](./material/20231004-Generative%20models/DiGress.pdf)||
 |2023/10/18|Algorithm|Transfer learning, domain adaptation|[Graph Optimal Transport for Cross-Domain Alignment](http://proceedings.mlr.press/v119/chen20e/chen20e.pdf)|||
 |2023/11/01|Algorithm|Distributed algorithms|[MocoSFL: enabling cross-client collaborative self-supervised learning](https://openreview.net/forum?id=2QGJXyMNoPz)|||
 |2023/11/15|Algorithm|Unlearning|[Certified Data Removal from Machine Learning Models](https://arxiv.org/pdf/1911.03030.pdf)|||
