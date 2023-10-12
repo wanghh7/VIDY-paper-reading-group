@@ -172,7 +172,7 @@
                                         startDate="2023-10-04"
                                         startTime="20:30"
                                         endDate="2023-10-04"
-                                        endTime="22:30"
+                                        endTime="22:00"
                                         timeZone="America/New_York"
                                         location="Zoom: https://virginiatech.zoom.us/j/8655293038."
                                         buttonStyle="date"
@@ -202,23 +202,21 @@
                 <div class="col-lg-6">
                     <div class="section_title text-center pb-25">
                         <p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">NEXT PRESENTATION</p></br>
-                        <h4 class="title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s"><a href="https://arxiv.org/abs/2209.14734" style="color: black;">DiGress: Discrete Denoising Diffusion for Graph Generation</a></h4>
-                        <p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">by Tinglin Huang</p>
-                        <p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">Host: Dr. Ying</p>
-                        <p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">Challenger: Shuaicheng Zhang, Jianpeng Chen</p>
-                        <p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s"><i>WEDNESDAY (8:30-10:30 PM), OCTOBER 4TH, 2023</i></p></br></br>
+                        <h4 class="title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s"><a href="http://proceedings.mlr.press/v119/chen20e/chen20e.pdf" style="color: black;">Graph Optimal Transport for Cross-Domain Alignment</a></h4>
+                        <p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">by Ngco Bui</p>
+                        <p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">Host: Dr. Yan</p>
+                        <p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">Summarizer: Zheng Huang</p>
+                        <p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s">Challenger: Fatimah Alotaibi, Pingbang Hu</p>
+                        <p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.4s"><i>WEDNESDAY (8:30-10:00 PM), OCTOBER 18TH, 2023</i></p></br></br>
                         <button class="plain-button" onclick="toggleContent()"><p><strong>See Abstract</strong></p></button>
                         <div id="myContent" style="display: none;">
-                          <p><strong>Abstract:</strong> This work introduces DiGress, a discrete denoising diffusion model for generating graphs 
-                            with categorical node and edge attributes. Our model utilizes a discrete diffusion process that progressively edits 
-                            graphs with noise, through the process of adding or removing edges and changing the categories. A graph transformer 
-                            network is trained to revert this process, simplifying the problem of distribution learning over graphs into a sequence 
-                            of node and edge classification tasks. We further improve sample quality by introducing a Markovian noise model that 
-                            preserves the marginal distribution of node and edge types during diffusion, and by incorporating auxiliary graph-theoretic 
-                            features. A procedure for conditioning the generation on graph-level features is also proposed. DiGress achieves state-of-the-art 
-                            performance on molecular and non-molecular datasets, with up to 3x validity improvement on a planar graph dataset. It is 
-                            also the first model to scale to the large GuacaMol dataset containing 1.3M drug-like molecules without the use of 
-                            molecule-specific representations.</p>
+                          <p><strong>Abstract:</strong> Cross-domain alignment between two sets of entities (e.g., objects in an image, words in a sentence) is fundamental to both computer vision and natural language processing. 
+                            Existing methods mainly focus on designing advanced attention mechanisms to simulate soft alignment, where no training signals are provided to explicitly encourage alignment. Plus, the learned attention 
+                            matrices are often dense and difficult to interpret. We propose Graph Optimal Transport (GOT), a principled framework that builds upon recent advances in Optimal Transport (OT). In GOT, cross-domain 
+                            alignment is formulated as a graph matching problem, by representing entities as a dynamically-constructed graph. Two types of OT distances are considered: (i) Wasserstein distance (WD) for node (entity) 
+                            matching; and (ii) Gromov-Wasserstein distance (GWD) for edge (structure) matching. Both WD and GWD can be incorporated into existing neural network models, effectively acting as a drop-in regularizer. 
+                            The inferred transport plan also yields sparse and self-normalized alignment, enhancing the interpretability of the learned model. Experiments show consistent outperformance of GOT over baselines across 
+                            a wide range of tasks, including image-text retrieval, visual question answering, image captioning, machine translation, and text summarization.</p>
                         </div>
                         <p><a href="https://virginiatech.zoom.us/j/8655293038" class="main-btn wow fadeInUp" data-wow-duration="1.3s"
                             data-wow-delay="0.7s">Join the Zoom Call</a></p>
@@ -243,8 +241,9 @@
                                 <h4 class="title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.1s">About</h4>
                                 <p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s">Welcome to our bi-weekly 
                                     joint reading group with Dartmouth, UIUC, VT, and Yale.</p>
-                                <p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s">To participate, please 
-                                    <strong><a style="color: inherit;" href="https://docs.google.com/spreadsheets/d/1JMuGP3ZWm5-kTFGE25K-lv-XACAUIPpcwbHk5Ss65OE/edit?usp=sharing">sign up</a></strong> for a role and choose a paper to present.</p>
+                                <p class="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s">To participate and subscribe to our email update, please kindly <strong><a style="color: inherit;" 
+                                    href="https://docs.google.com/spreadsheets/d/1JMuGP3ZWm5-kTFGE25K-lv-XACAUIPpcwbHk5Ss65OE/edit?usp=sharing">sign up</a></strong> in the "Participants" section by 
+                                    providing your full name and email address.</p>
                             </div> <!-- section title -->
                         </div> <!-- about content -->
                     </div>
@@ -274,7 +273,7 @@
                             <li class="event-item">
                                 <p>Tinglin Huang</p>
                                 <h4 class="features_title">DiGress: Discrete Denoising Diffusion for Graph Generation</h4>
-                                <p><img src="https://www.addevent.com/gfx/icon-calendar-t5.png" alt="Calendar Icon"/> <i>October 4th, 2023</i></p>
+                                <p><img src="https://www.addevent.com/gfx/icon-calendar-t5.png" alt="Calendar Icon"/> <i>October 11th, 2023</i></p>
                             </li>
                             <li class="event-item">
                                 <p>Ngoc Bui</p>
@@ -387,7 +386,7 @@
                 <div class="col-lg-6">
                     <div class="single_blog mt-30 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s">
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" width="600px" height="500px" src="https://www.youtube-nocookie.com/embed/k2saMtP-Fn8" title="Slides player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;" allowfullscreen></iframe>
+                            <iframe src="./material/20231004-Generative models/DiGress.pdf" style="width:600px; height:500px;" frameborder="0"></iframe>
                         </div>
                         <!-- <div class="blog_image">
                             <img src="assets/images/blog-1.jpg" alt="blog">
@@ -513,7 +512,7 @@
             <div class="single_portfolio wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s">
                 <img src="assets/images/Jiaqi.jpg" alt="portfolio">
                 <div class="portfolio_content">
-                    <h5 class="portfolio_title"><a href="https://www.jiaqima.com/" style="color: inherit;">Jiaqi Ma</a></h5>
+                    <h5 class="portfolio_title"><a href="https://jiaqima.github.io/" style="color: inherit;">Jiaqi Ma</a></h5>
                     <h5 class="portfolio_title"><i>University of Illinois Urbana-Champaign</i></h5>
                 </div> <!-- Single portfolio -->
             </div> <!-- portfolio wrapper -->
