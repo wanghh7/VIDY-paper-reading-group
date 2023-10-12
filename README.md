@@ -4,13 +4,13 @@ Welcome to our bi-weekly joint reading group with Dartmouth, UIUC, VT, and Yale.
 <table>
   <tr>
     <td align="center">
-      <img src="https://marvel-b1-cdn.bc0a.com/f00000000283318/communications.dartmouth.edu/sites/communications.prod/files/dpine_lockup.jpg" alt="Dartmouth" width="200"/>
+      <img src="https://vtnews.vt.edu/global_assets/images/logo-maroon.svg" alt="VT" width="200"/>
     </td>
     <td align="center">
       <img src="https://brand.illinois.edu/wp-content/uploads/2021/09/wordmark.png" alt="UIUC" width="200"/>
     </td>
     <td align="center">
-      <img src="https://vtnews.vt.edu/global_assets/images/logo-maroon.svg" alt="VT" width="200"/>
+      <img src="https://marvel-b1-cdn.bc0a.com/f00000000283318/communications.dartmouth.edu/sites/communications.prod/files/dpine_lockup.jpg" alt="Dartmouth" width="200"/>
     </td>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Yale_University_logo.svg/1280px-Yale_University_logo.svg.png" alt="Yale" width="200"/>
