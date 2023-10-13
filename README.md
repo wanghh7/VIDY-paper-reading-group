@@ -1,5 +1,5 @@
 # VIDY Paper Reading Group 2023-2024 :books:
-Welcome to our bi-weekly joint reading group with Dartmouth, UIUC, VT, and Yale. To participate and subscribe to our email update, please kindly [sign up](https://docs.google.com/spreadsheets/d/1JMuGP3ZWm5-kTFGE25K-lv-XACAUIPpcwbHk5Ss65OE/edit?usp=sharing) in the "Participants" section by providing your full name and email address.
+Welcome to our bi-weekly joint reading group with Dartmouth, UIUC, VT, and Yale. To participate and subscribe to our email update, please kindly contact us.
 
 <table>
   <tr>
@@ -26,7 +26,7 @@ In this repository, you will find the paper list and slidedecks.
 |Meeting date|Theme|Topic|Paper|Slidedeck|Resources|
 |-|-|-|-|-|-|
 |2023/10/11|Algorithm|Generative models|[DiGress: Discrete Denoising diffusion for graph generation](https://arxiv.org/abs/2209.14734)|[Link](./material/20231011-Generative%20models/DiGress.pdf)||
-|2023/10/18|Algorithm|Transfer learning, domain adaptation|[Graph Optimal Transport for Cross-Domain Alignment](http://proceedings.mlr.press/v119/chen20e/chen20e.pdf)|||
+|2023/10/25|Applications|Brain network|[Brain Network Transformer](https://arxiv.org/abs/2210.06681)|||
 |2023/11/01|Algorithm|Distributed algorithms|[MocoSFL: enabling cross-client collaborative self-supervised learning](https://openreview.net/forum?id=2QGJXyMNoPz)|||
 |2023/11/15|Algorithm|Unlearning|[Certified Data Removal from Machine Learning Models](https://arxiv.org/pdf/1911.03030.pdf)|||
 |2023/11/29|Algorithm|Symbolic reasoning and learning|[Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf), [SELF-CONSISTENCY IMPROVES CHAIN OF THOUGHT REASONING IN LANGUAGE MODELS](https://arxiv.org/pdf/2203.11171.pdf), [LEAST-TO-MOST PROMPTING ENABLES COMPLEX REASONING IN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2205.10625.pdf), [LANGUAGE MODELS ARE MULTILINGUAL CHAIN-OF-THOUGHT REASONERS](https://arxiv.org/pdf/2210.03057.pdf)|||
@@ -34,7 +34,7 @@ In this repository, you will find the paper list and slidedecks.
 |2023/12/27|Applications|Drug discovery|[Geometric Latent Diffusion Models for 3D Molecule Generation](https://arxiv.org/abs/2305.01140)|||
 |2024/01/10|Applications|Program synthesis|[Learning to Execute Programs with Instruction Pointer Attention Graph Neural Networks](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oavgGaMAAAAJ&sortby=pubdate&citation_for_view=oavgGaMAAAAJ:nRpfm8aw39MC)|||
 |2024/01/24|Applications|3-D molecule|[SchNet: A continuous-filter convolutional neural network for modeling quantum interactions](https://arxiv.org/pdf/1706.08566.pdf), [SPHERICAL MESSAGE PASSING FOR 3D MOLECULAR GRAPHS](https://arxiv.org/pdf/2102.05013.pdf)|||
-|2024/02/07|Applications|Brain network|[Brain Network Transformer](https://arxiv.org/abs/2210.06681)|||
+|2024/02/07|Algorithm|Transfer learning, domain adaptation|[Graph Optimal Transport for Cross-Domain Alignment](http://proceedings.mlr.press/v119/chen20e/chen20e.pdf)|||
 |2024/02/21|Applications|Transportation network/spatial-temporal learning|[ROLAND: Graph Learning Framework for Dynamic Graphs](https://arxiv.org/abs/2208.07239)||||
 |2024/03/06|Theory|Generalization|[UML](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) Chapter 2 & 3 (ERM & PAC Learning)|||
 |2024/03/20|Theory|Generalization|[UML](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) Chapter 4 (Uniform Convergence)|||
