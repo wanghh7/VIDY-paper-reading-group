@@ -25,9 +25,9 @@ In this repository, you will find the paper list and slidedecks.
 ## Timeline
 |Meeting date|Theme|Topic|Paper|Slidedeck|Resources|
 |-|-|-|-|-|-|
-|2023/10/11|Algorithm|Generative models|[DiGress: Discrete Denoising diffusion for graph generation](https://arxiv.org/abs/2209.14734)|[Link](./material/20231011-Generative%20models/DiGress.pdf)||
+|2023/10/11|Algorithm|Generative models|[DiGress: Discrete Denoising diffusion for graph generation](https://arxiv.org/abs/2209.14734)|[Link](./material/20231011-Generative%20models/DiGress.pdf)|[Link](./material/20231011-Generative%20models/)|
 |2023/10/25|Applications|Brain network|[Brain Network Transformer](https://arxiv.org/abs/2210.06681)|||
-|2023/11/01|Algorithm|Distributed algorithms|[MocoSFL: enabling cross-client collaborative self-supervised learning](https://openreview.net/forum?id=2QGJXyMNoPz)|||
+|2023/11/01|Algorithm|Hyperbolic Representation Learning|[Fully Hyperbolic Neural Networks](https://arxiv.org/abs/2105.14686)|||
 |2023/11/15|Algorithm|Unlearning|[Certified Data Removal from Machine Learning Models](https://arxiv.org/pdf/1911.03030.pdf)|||
 |2023/11/29|Algorithm|Symbolic reasoning and learning|[Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf), [SELF-CONSISTENCY IMPROVES CHAIN OF THOUGHT REASONING IN LANGUAGE MODELS](https://arxiv.org/pdf/2203.11171.pdf), [LEAST-TO-MOST PROMPTING ENABLES COMPLEX REASONING IN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2205.10625.pdf), [LANGUAGE MODELS ARE MULTILINGUAL CHAIN-OF-THOUGHT REASONERS](https://arxiv.org/pdf/2210.03057.pdf)|||
 |2023/12/13|Algorithm|Uncertainty quantification|[Dropout as Bayesian approximation: Representing Model Uncertainty in Deep Learning](https://arxiv.org/pdf/1506.02142.pdf), [Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles](https://arxiv.org/pdf/1612.01474.pdf)|||
@@ -42,6 +42,7 @@ In this repository, you will find the paper list and slidedecks.
 |2024/04/17|Theory|Generalization|[UML](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) Chapter 26 (Rademacher Complexity)|||
 |2024/05/01|Theory|Generalization|[UML](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)[ Chapter 30 & Stronger generalization bounds for deep nets via a compression approach](https://arxiv.org/pdf/1802.05296.pdf)|||
 |2024/05/15|Theory|Generalization|[UML](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)[ Chapter 31 & A PAC-Bayesian Approach to Spectrally-Normalized Margin Bounds for Neural Networks](https://arxiv.org/abs/1707.09564)|||
+||Algorithm|Distributed algorithms|[MocoSFL: enabling cross-client collaborative self-supervised learning](https://openreview.net/forum?id=2QGJXyMNoPz)|||
 
 
 ## Group Reading Roles
