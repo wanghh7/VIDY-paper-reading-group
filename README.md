@@ -38,11 +38,11 @@ In this repository, you will find the paper list and slidedecks.
 |2024/03/06|Applications|Transportation network/spatial-temporal learning|[ROLAND: Graph Learning Framework for Dynamic Graphs](https://arxiv.org/abs/2208.07239)||||
 |2024/03/27|Theory|Generalization|[UML](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) Chapter 2 & 3 (ERM & PAC Learning)||[Link](./material/20240327-UML%20ch2&3/VIDY_presentation_UMLCh23.pdf)|
 |2024/04/17|Theory|Generalization|[UML](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) Chapter 4 (Uniform Convergence)|[Link](./material/20240417-UML%20ch4/VIDY_UMLCh4.pdf)|[Link](./material/20240417-UML%20ch4)|
-|2024/05/01|Theory|Generalization|[UML](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) Chapter 6 (VC Dimension)|||
-|2024/05/29|Theory|Generalization|[UML](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)[ Chapter 30 & Stronger generalization bounds for deep nets via a compression approach](https://arxiv.org/pdf/1802.05296.pdf)|||
-|2024/06/12|Theory|Generalization|[UML](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)[ Chapter 31 & A PAC-Bayesian Approach to Spectrally-Normalized Margin Bounds for Neural Networks](https://arxiv.org/abs/1707.09564)|||
-|2024/06/26|Algorithm|Distributed algorithms|[MocoSFL: enabling cross-client collaborative self-supervised learning](https://openreview.net/forum?id=2QGJXyMNoPz)|||
-|2024/07/10|Theory|Generalization|[UML](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) Chapter 26 (Rademacher Complexity)|||
+|2024/05/29|Theory|Generalization|[UML](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) Chapter 6 (VC Dimension)|||
+|2024/06/12|Theory|Generalization|[UML](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)[ Chapter 30 & Stronger generalization bounds for deep nets via a compression approach](https://arxiv.org/pdf/1802.05296.pdf)|||
+|2024/06/26|Theory|Generalization|[UML](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)[ Chapter 31 & A PAC-Bayesian Approach to Spectrally-Normalized Margin Bounds for Neural Networks](https://arxiv.org/abs/1707.09564)|||
+|2024/07/10|Algorithm|Distributed algorithms|[MocoSFL: enabling cross-client collaborative self-supervised learning](https://openreview.net/forum?id=2QGJXyMNoPz)|||
+|2024/07/24|Theory|Generalization|[UML](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) Chapter 26 (Rademacher Complexity)|||
 
 ## Group Reading Roles
 The group reading is organized around the different “roles” students play each week: Presenter, Challenger, Discussant, Summarizer, and Hacker. Roles define the lens through which students read the paper.
