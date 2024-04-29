@@ -1,9 +1,9 @@
 # VIDY Paper Reading Group 2023-2024 :books:
-Welcome to our bi-weekly joint reading group with Dartmouth, UIUC, VT, and Yale. To participate and subscribe to our email update, please kindly contact us.
+Welcome to our bi-weekly joint reading group with Dartmouth, UIUC, VT, and Yale. To participate and subscribe to our email update, please kindly contact us. [Website](https://wanghh7.github.io/VIDY-paper-reading-group/)
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center">W
       <img src="https://vtnews.vt.edu/global_assets/images/logo-maroon.svg" alt="VT" width="200"/>
     </td>
     <td align="center">
